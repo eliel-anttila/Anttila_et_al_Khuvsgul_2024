@@ -1,0 +1,27 @@
+#	SiteLatitude	50.850207								
+#	SiteLongitud	100.131995								
+#	SurfaceAge =	500								
+#										
+#	# bottom_age	bottom_depth	min_water_depth	max_water_depth	lithology					
+Ukh	518	600	0	300	Sand	0.9	Shale	0.1		
+Uerk	519	1100	0	100	Limestone	0.5	Dolostone	0.5		
+Merk	521	1800	0	100	Limestone	0.5	Dolostone	0.5		
+Lerk	524	2100	0	100	Limestone	0.5	Dolostone	0.5		
+Debrite	525	2150	0	200	Sand	1				
+Hiatus1	533	2150	0	0	Sand	1				
+_hes	538	2450	0	100	Limestone	0.8	Sand	0.1	Dolostone	0.1
+Hiatus2	628	2450	0	0	Sand	1				
+_hirv	635	2510	20	200	Shale	0.5	Limestone	0.5		
+Shar	640	2530	20	200	Dolostone	0.6	Limestone	0.4		
+Salk	644	2680	20	200	Limestone	0.7	Dolostone	0.3		
+										
+										
+										
+										
+										
+	160	2068	0	100	Shale	0.4	Limestone	0.3	Sand	0.3
+	165	2130	0	100	Shale	0.4	Limestone	0.3	Sand	0.3
+	170	2176	0	100	Shale	0.5	Sand	0.5		
+	177	2187	-10	25	Shale	0.3	Sand	0.7		
+	180	2237	-10	25	Shale	0.3	Sand	0.7		
+	190	2311	-10	20	Shale	0.3	Sand	0.7		
