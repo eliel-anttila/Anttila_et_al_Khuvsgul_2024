@@ -1,8 +1,8 @@
-# Anttila_et_al_Khuvsgul_2024
+# Anttila_et_al_Khuvsgul_2025
 * * *
 * * *
 
-This repository contains Supplementary Information and code used to generate figures for Anttila et al., 2024.
+This repository contains Supplementary Information and code used to generate figures for Anttila et al., 2025.
 * * *
 
 All supplementary material, including text, tables (Tables S1-S4), three supplementary geologic maps of the study area (figs S1-S3), and thin section photomicographs (fig. S4) are available within the /Supplementary_Information/ directory.
